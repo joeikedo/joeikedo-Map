@@ -28,7 +28,7 @@ public class Lab {
      */
     public Map<Integer, String> createMap(){
         Map<Integer, String> myMap = new HashMap<Integer, String>();
-        return myMap;
+        return myMap; //comment to commit
     }
 
     /**
